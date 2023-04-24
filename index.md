@@ -11,7 +11,7 @@ layout: default
 
 How will artificial intelligence and large language models shape the future of clinical psychology? How do psychological processes like depression and anxiety show up in human language? What is the underlying structure of psychopathology? I use computational linguistics and machine learning to address these questions. 
 
-I'm a 6th-year PhD student in Clinical Psychology at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm currently on internship at the Palo Alto VA Health Care System. I'm part of the [World Well-Being Project](https://wwbp.org/about.html). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
+I'm a PhD candidate in Clinical Psychology at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm currently on internship at the Palo Alto VA Health Care System. I'm part of the [World Well-Being Project](https://wwbp.org/about.html). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
 I use [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, and cognitive processing therapy and prolonged exposure for PTSD. 
 
@@ -57,7 +57,7 @@ disorder. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5)
 https://doi.org/10.1016/j.bpsc.2016.06.002)
 
 
-[here are some resources](resources)
+[clinical resources](resources)
 
 
 [OSF](https://osf.io/h3d4g/) | 
