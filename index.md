@@ -28,7 +28,7 @@ I am currently working on projects using large language models to provide eviden
 Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! My work has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
 
 #### more
-Beyond these research streams, I'm interested in developing behavioral measures of psychological constructs, like we did [here](https://doi.org/10.1177/21677026211038017). I also use empirical methods to disentangle or understand the overlap between closely related psychological constructs, like we did [here](https://doi.org/10.1177/21677026221131309). 
+Beyond these research streams, I'm interested in developing behavioral measures of psychological constructs, like [using a joystick to measure characteristics of thought](https://doi.org/10.1177/21677026211038017). I also use empirical methods to disentangle or understand the overlap between closely related psychological constructs, like [worry and rumination](https://doi.org/10.1177/21677026221131309). 
 
 
 ## publications
