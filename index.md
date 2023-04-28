@@ -33,6 +33,8 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
+**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Preprint* [Link](https://psyarxiv.com/cuzvr)
+
 **Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). Perseverative thinking is associated with
 features of spoken language. *Behaviour Research and Therapy.* [Link](https://doi.org/10.1016/j.brat.2023.104307)
 
