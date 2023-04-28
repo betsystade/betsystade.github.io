@@ -24,3 +24,5 @@ Info on [postpartum intrusive thoughts](https://share.upmc.com/2021/11/postpartu
 [Retrain Your Brain: Cognitive Behavioral Therapy in 7 Weeks](https://www.amazon.com/Retrain-Your-Brain-Behavioral-Depression/dp/1623157803/ref=asc_df_1623157803/?tag=hyprod-20&linkCode=df0&hvadid=312741934517&hvpos=&hvnetw=g&hvrand=2309678129135522299&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011844&hvtargid=pla-406163968273&psc=1&tag=&ref=&adgrpid=64940825031&hvpone=&hvptwo=&hvadid=312741934517&hvpos=&hvnetw=g&hvrand=2309678129135522299&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011844&hvtargid=pla-406163968273)
 
 [Cognitive Behavioral Workbook for Anxiety](https://www.amazon.com/Cognitive-Behavioral-Workbook-Anxiety-Step/dp/1626250154/ref=sr_1_4?crid=DLLGH9N7G7LI&keywords=cbt+anxiety&qid=1682135405&s=books&sprefix=cbt+anxiety%2Cstripbooks%2C123&sr=1-4)
+
+[Getting Unstuck from PTSD](https://www.amazon.com/Getting-Unstuck-PTSD-Cognitive-Processing/dp/1462549837/ref=sr_1_1?crid=3FT8OVF7Q054O&keywords=getting%20unstuck%20from%20ptsd&qid=1665710005&sprefix=getting%20unstuck%20from%20ptsd%20%2Caps%2C299&sr=8-1)
