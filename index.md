@@ -33,29 +33,28 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
-**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Preprint* [Link](https://psyarxiv.com/cuzvr)
+**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Under review.* [Preprint.](https://psyarxiv.com/cuzvr)
 
-**Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). Perseverative thinking is associated with
-features of spoken language. *Behaviour Research and Therapy.* [Link](https://doi.org/10.1016/j.brat.2023.104307)
+**Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). Perseverative thinking is associated with features of spoken language. *Behaviour Research and Therapy.* [Paper](https://doi.org/10.1016/j.brat.2023.104307)
 
 **Stade, E. C.**, & Ruscio, A. M. (2022). A meta-analysis of the relationship between worry and
-rumination. *Clinical Psychological Science.* [Link](https://doi.org/10.1177/21677026221131309)
+rumination. *Clinical Psychological Science.* [Paper](https://doi.org/10.1177/21677026221131309)
 
 **Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). A novel measure of real-time
-perseverative thought. *Clinical Psychological Science.* 10(3), 534–552. [Link](https://doi.org/10.1177/21677026211038017)
+perseverative thought. *Clinical Psychological Science.* 10(3), 534–552. [Paper](https://doi.org/10.1177/21677026211038017)
 
 Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch C. F., Richards, S., Hoch, M., **Stade, E. C.**, Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019). Lithium continuation therapy following ketamine in patients
 with treatment resistant unipolar depression: a randomized controlled trial.
-*Neuropsychopharmacology,* 44, 1812–1819. [Link](https://doi.org/10.1038/s41386-019-0365-0)
+*Neuropsychopharmacology,* 44, 1812–1819. [Paper](https://doi.org/10.1038/s41386-019-0365-0)
 
 Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A., Collins, K. A.,
 Soleimani, L., Iosifescu, D. V., & Charney, D. S. (2017). Dextromethorphan/quinidine
 pharmacotherapy in patients with treatment resistant depression: A proof of concept open
-label clinical trial. *Journal of Affective Disorders*, 218, 277-283. [Link](
+label clinical trial. *Journal of Affective Disorders*, 218, 277-283. [Paper](
 https://doi.org/10.1016/j.jad.2017.04.072)
 
 **Stade, E. C.**, & Iosifescu, D.V. (2016). Using EEG for treatment guidance in major depressive
-disorder. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422. [Link](
+disorder. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422. [Paper](
 https://doi.org/10.1016/j.bpsc.2016.06.002)
 
 
