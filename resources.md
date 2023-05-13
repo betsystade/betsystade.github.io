@@ -26,3 +26,6 @@ Info on [postpartum intrusive thoughts](https://share.upmc.com/2021/11/postpartu
 [Cognitive Behavioral Workbook for Anxiety](https://www.amazon.com/Cognitive-Behavioral-Workbook-Anxiety-Step/dp/1626250154/ref=sr_1_4?crid=DLLGH9N7G7LI&keywords=cbt+anxiety&qid=1682135405&s=books&sprefix=cbt+anxiety%2Cstripbooks%2C123&sr=1-4)
 
 [Getting Unstuck from PTSD](https://www.amazon.com/Getting-Unstuck-PTSD-Cognitive-Processing/dp/1462549837/ref=sr_1_1?crid=3FT8OVF7Q054O&keywords=getting%20unstuck%20from%20ptsd&qid=1665710005&sprefix=getting%20unstuck%20from%20ptsd%20%2Caps%2C299&sr=8-1)
+
+
+[Overcoming Body-Focused Repetitive Behaviors: A Comprehensive Behavioral Treatment for Hair Pulling and Skin Picking](https://www.amazon.com/Overcoming-Body-Focused-Repetitive-Behaviors-Comprehensive/dp/1684033640)
