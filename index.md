@@ -35,6 +35,10 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Under review.* [Preprint.](https://psyarxiv.com/cuzvr)
 
+**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (in press). A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM. *Journal of Psychopathology and Clinical Science.* [Preregistration](https://osf.io/ybst6)
+
+**Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (in press). Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview. *Journal of Psychopathology and Clinical Science.* [Preregistration](https://osf.io/da2q8)
+
 **Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). Perseverative thinking is associated with features of spoken language. *Behaviour Research and Therapy.* [Paper](https://doi.org/10.1016/j.brat.2023.104307)
 
 **Stade, E. C.**, & Ruscio, A. M. (2022). A meta-analysis of the relationship between worry and
