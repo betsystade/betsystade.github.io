@@ -37,7 +37,7 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 **Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (in press). A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM. *Journal of Psychopathology and Clinical Science.* [Preprint.](https://psyarxiv.com/vkbnh)
 
-**Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (in press). Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview. *Journal of Psychopathology and Clinical Science.* [Preprint.](https://psyarxiv.com/7qvcz/)
+**Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (2023). [Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.](https://doi.org/10.1037/abn0000850) *Journal of Psychopathology and Clinical Science.* 
 
 **Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). [Perseverative thinking is associated with features of spoken language.](https://doi.org/10.1016/j.brat.2023.104307) *Behaviour Research and Therapy.* 
 
