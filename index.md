@@ -5,13 +5,13 @@
 layout: default
 ---
 
-# BETSY STADE
+# BETSY STADE, PHD
 
 ## about
 
 How will artificial intelligence and large language models shape the future of clinical psychology? How do psychological processes like depression and anxiety show up in human language? What is the underlying structure of psychopathology? I use computational linguistics and machine learning to address these questions. 
 
-I'm a PhD candidate in Clinical Psychology at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm currently on internship at the Palo Alto VA Health Care System. I'm part of the [World Well-Being Project](https://wwbp.org/about.html). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
+I did my PhD in Psychology at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I will soon start postdoc fellowship at Stanford working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I'm part of the [World Well-Being Project](https://wwbp.org/about.html). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
 I use [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, and cognitive processing therapy and prolonged exposure for PTSD. 
 
@@ -25,7 +25,7 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 I am currently working on projects using large language models to provide evidence-based interventions for psychopathology and well-being. Driven by my long-standing interested in how psychopathology shows up in human behavior, I also use natural language processing to both characterize and measure depression, anxiety, and repetitive negative thinking. 
 
 #### reconsidering psychopathology classification 
-Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! My work has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
+Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! [My work](https://psyarxiv.com/vkbnh) has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
 
 #### more
 Beyond these research streams, I'm interested in developing behavioral measures of psychological constructs, like [using a joystick to measure characteristics of thought](https://doi.org/10.1177/21677026211038017). I also use empirical methods to disentangle or understand the overlap between closely related psychological constructs, like [worry and rumination](https://doi.org/10.1177/21677026221131309). 
