@@ -61,6 +61,7 @@ disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: C
 
 
 [clinical resources](resources)
+[press](press)
 
 
 [OSF](https://osf.io/h3d4g/) | 
