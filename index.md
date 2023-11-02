@@ -33,6 +33,8 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
+Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2023). Key language markers of depression depend on race. *Under review.* [Preprint.](https://osf.io/preprints/psyarxiv/uvamz)
+
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Under review.* [Preprint.](https://psyarxiv.com/cuzvr)
 
 **Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (in press). A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM. *Journal of Psychopathology and Clinical Science.* [Preprint.](https://psyarxiv.com/vkbnh)

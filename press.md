@@ -16,6 +16,9 @@ permalink: /press/
 [HAI News](https://hai.stanford.edu/news/blueprint-using-ai-psychotherapy)
 
 
+[Worth Magazine](https://www.worth.com/how-ai-can-tackle-5-global-challenges/)
+
+
 <!---
 
 worth magazine
