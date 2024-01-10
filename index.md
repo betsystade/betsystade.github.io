@@ -37,7 +37,7 @@ Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Gun
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Under review.* [Preprint.](https://psyarxiv.com/cuzvr)
 
-**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (in press). A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM. *Journal of Psychopathology and Clinical Science.* [Preprint.](https://psyarxiv.com/vkbnh)
+**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (in press). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM](https://doi.org/10.1037/abn0000863). *Journal of Psychopathology and Clinical Science.*
 
 **Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (2023). [Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.](https://doi.org/10.1037/abn0000850) *Journal of Psychopathology and Clinical Science.* 
 
