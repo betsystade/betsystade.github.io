@@ -21,7 +21,7 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 
 ## research
 
-#### ai + mental. health
+#### ai + mental health
 I am currently working on projects using artificial intelligence (AI) and large language models (LLMs) to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to unpack and measure what happens during psychotherapy (with the goal of making it easier to train therapists in gold-standard treatments). 
 
 #### language + psychopathology
