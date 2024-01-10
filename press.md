@@ -11,7 +11,7 @@ permalink: /press/
 
 [KQED](https://www.kqed.org/forum/2010101894075/how-ai-could-transform-mental-health-care)
 
-[Worth Magazine](https://www.worth.com/how-ai-can-tackle-5-global-challenges/)
+[Worth Magazine](https://worth.com/how-ai-can-tackle-5-global-challenges/)
 
 [Penn Today](https://penntoday.upenn.edu/news/who-what-why-betsy-stade-assessing-anxiety-and-depression)
 
@@ -19,9 +19,9 @@ permalink: /press/
 
 <!---
 
-worth magazine
+
 second stanford write up
-Vox - ohlheiser
+
 
 -->
 
