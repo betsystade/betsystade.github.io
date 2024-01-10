@@ -21,8 +21,11 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 
 ## research
 
+#### ai + mental. health
+I am currently working on projects using artificial intelligence (AI) and large language models (LLMs) to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to unpack and measure what happens during psychotherapy (with the goal of making it easier to train therapists in gold-standard treatments). 
+
 #### language + psychopathology
-I am currently working on projects using large language models to provide evidence-based interventions for psychopathology and well-being. Driven by my long-standing interested in how psychopathology shows up in human behavior, I also use natural language processing to both characterize and measure depression, anxiety, and repetitive negative thinking. 
+I have also used natural language processing to characterize and measure (and disentangle!) [depression and anxiety](https://doi.org/10.1037/abn0000850) and [repetitive negative thinking](https://doi.org/10.1016/j.brat.2023.104307). Some of my current work investigates what drives the relationship between depression and first-person singular pronoun use (e.g., I, me, mine).
 
 #### reconsidering psychopathology classification 
 Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! [My work](https://psyarxiv.com/vkbnh) has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
