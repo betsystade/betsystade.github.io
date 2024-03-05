@@ -36,13 +36,13 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
-Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2023). Key language markers of depression depend on race. *Under review.* [Preprint.](https://osf.io/preprints/psyarxiv/uvamz)
+**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *In press at npj Mental Health Research.* [Preprint.](https://psyarxiv.com/cuzvr)
 
-**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *Under review.* [Preprint.](https://psyarxiv.com/cuzvr)
-
-**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (in press). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM](https://doi.org/10.1037/abn0000863). *Journal of Psychopathology and Clinical Science.*
+Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2023). Key language markers of depression depend on race. *In press at PNAS.* [Preprint.](https://osf.io/preprints/psyarxiv/uvamz)
 
 **Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (2023). [Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.](https://doi.org/10.1037/abn0000850) *Journal of Psychopathology and Clinical Science.* 
+
+**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM](https://doi.org/10.1037/abn0000863). *Journal of Psychopathology and Clinical Science.*
 
 **Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). [Perseverative thinking is associated with features of spoken language.](https://doi.org/10.1016/j.brat.2023.104307) *Behaviour Research and Therapy.* 
 
@@ -65,9 +65,24 @@ label clinical trial.](https://doi.org/10.1016/j.jad.2017.04.072) *Journal of Af
 disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422.
 
 
-[clinical resources](resources)
+## publications
 
-[press](press)
+[Guardian](https://www.theguardian.com/lifeandstyle/2024/mar/02/can-ai-chatbot-therapists-do-better-than-the-real-thing)
+
+[Vox](https://www.vox.com/technology/2023/12/14/24000435/chatbot-therapy-risks-and-potential)
+
+[KQED](https://www.kqed.org/forum/2010101894075/how-ai-could-transform-mental-health-care)
+
+[Dropbox Blog](https://blog.dropbox.com/topics/work-culture/ai-therapy-)
+
+[Worth Magazine](https://worth.com/how-ai-can-tackle-5-global-challenges/)
+
+[Penn Today](https://penntoday.upenn.edu/news/who-what-why-betsy-stade-assessing-anxiety-and-depression)
+
+[HAI News](https://hai.stanford.edu/news/blueprint-using-ai-psychotherapy)
+
+
+[clinical resources](resources)
 
 
 [OSF](https://osf.io/h3d4g/) | 
