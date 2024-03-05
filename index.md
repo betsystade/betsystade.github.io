@@ -65,7 +65,7 @@ label clinical trial.](https://doi.org/10.1016/j.jad.2017.04.072) *Journal of Af
 disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422.
 
 
-## publications
+## press
 
 [Guardian](https://www.theguardian.com/lifeandstyle/2024/mar/02/can-ai-chatbot-therapists-do-better-than-the-real-thing)
 
