@@ -36,9 +36,9 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
-**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2023). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *In press at npj Mental Health Research.* [Preprint.](https://psyarxiv.com/cuzvr)
+**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (in press). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *In press at npj Mental Health Research.* [Preprint.](https://psyarxiv.com/cuzvr)
 
-Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2023). Key language markers of depression depend on race. *In press at PNAS.* [Preprint.](https://osf.io/preprints/psyarxiv/uvamz)
+Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (in press). Key language markers of depression depend on race. *In press at PNAS.* [Preprint.](https://osf.io/preprints/psyarxiv/uvamz)
 
 **Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (2023). [Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.](https://doi.org/10.1037/abn0000850) *Journal of Psychopathology and Clinical Science.* 
 
