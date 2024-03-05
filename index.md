@@ -82,6 +82,8 @@ disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: C
 [HAI News](https://hai.stanford.edu/news/blueprint-using-ai-psychotherapy)
 
 
+
+
 [clinical resources](resources)
 
 
