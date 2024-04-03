@@ -36,7 +36,9 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
-**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (in press). Artificial intelligence will change the future of psychotherapy: A proposal for responsible, psychologist-led development. *In press at npj Mental Health Research.* [Preprint.](https://psyarxiv.com/cuzvr)
+**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A Review and Framework.](https://osf.io/preprints/psyarxiv/8zqhw)
+
+**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
 Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2024). [Key language markers of depression depend on race.](https://www.pnas.org/doi/10.1073/pnas.2319837121) *PNAS.*
 
@@ -46,23 +48,16 @@ Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Gun
 
 **Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). [Perseverative thinking is associated with features of spoken language.](https://doi.org/10.1016/j.brat.2023.104307) *Behaviour Research and Therapy.* 
 
-**Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and
-rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
+**Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
 
-**Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time
-perseverative thought.](https://doi.org/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
+**Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time perseverative thought.](https://doi.org/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
 
-Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch C. F., Richards, S., Hoch, M., **Stade, E. C.**, Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019). [Lithium continuation therapy following ketamine in patients
-with treatment resistant unipolar depression: a randomized controlled trial.](https://doi.org/10.1038/s41386-019-0365-0)
+Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch C. F., Richards, S., Hoch, M., **Stade, E. C.**, Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019). [Lithium continuation therapy following ketamine in patients with treatment resistant unipolar depression: a randomized controlled trial.](https://doi.org/10.1038/s41386-019-0365-0)
 *Neuropsychopharmacology,* 44, 1812–1819.
 
-Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A., Collins, K. A.,
-Soleimani, L., Iosifescu, D. V., & Charney, D. S. (2017). [Dextromethorphan/quinidine
-pharmacotherapy in patients with treatment resistant depression: A proof of concept open
-label clinical trial.](https://doi.org/10.1016/j.jad.2017.04.072) *Journal of Affective Disorders*, 218, 277-283.
+Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A., Collins, K. A., Soleimani, L., Iosifescu, D. V., & Charney, D. S. (2017). [Dextromethorphan/quinidine pharmacotherapy in patients with treatment resistant depression: A proof of concept open label clinical trial.](https://doi.org/10.1016/j.jad.2017.04.072) *Journal of Affective Disorders*, 218, 277-283.
 
-**Stade, E. C.**, & Iosifescu, D.V. (2016). [Using EEG for treatment guidance in major depressive
-disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422.
+**Stade, E. C.**, & Iosifescu, D.V. (2016). [Using EEG for treatment guidance in major depressive disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422.
 
 
 ## press
