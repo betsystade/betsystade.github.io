@@ -36,7 +36,7 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
-**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A Review and Framework.](https://osf.io/preprints/psyarxiv/8zqhw)
+**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw)
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
