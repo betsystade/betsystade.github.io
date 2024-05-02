@@ -72,6 +72,8 @@ Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A.
 
 [Worth Magazine](https://worth.com/how-ai-can-tackle-5-global-challenges/)
 
+[Stanford Medicine Magazine](https://stanmed.stanford.edu/ai-mental-crisis-prediction-intervention/)
+
 [Penn Today](https://penntoday.upenn.edu/news/who-what-why-betsy-stade-assessing-anxiety-and-depression)
 
 [HAI News](https://hai.stanford.edu/news/blueprint-using-ai-psychotherapy)
