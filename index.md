@@ -9,7 +9,7 @@ layout: default
 
 ## about
 
-How will artificial intelligence and large language models shape the future of clinical psychology? How do psychological processes like depression and anxiety show up in human language? What is the underlying structure of psychopathology? I use computational linguistics and machine learning to address these questions. 
+How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? What is the underlying structure of psychopathology? I use computational linguistics and machine learning to address these questions. 
 
 I am a postdoctoral researcher at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD in Psychology at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://wwbp.org/about.html). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
@@ -21,8 +21,11 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 
 ## research
 
-#### ai + mental health
-I am currently working on projects using artificial intelligence (AI) and large language models (LLMs) to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to unpack and measure what happens during psychotherapy (with the goal of making it easier to train therapists in gold-standard treatments). 
+#### ai tools for mental health 
+I develop products that use large language models (LLMs) to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to help therapists learn gold-standard treatments. 
+
+#### important considerations for ai + mental health
+I also write about the future of AI and mental heath. This includes thinking about a [continuum of integration of AI into mental healthcare](https://www.nature.com/articles/s44184-024-00056-z.pdf) and [defining criteria for evaluating whether AI-mental health tools are safe and ready to deploy in clinical settings](https://osf.io/preprints/psyarxiv/8zqhw). One of my goals is making information about AI and LLMs more accessible to clinical psychology audiences.  
 
 #### language + psychopathology
 I have also used natural language processing to characterize and measure (and disentangle!) [depression and anxiety](https://doi.org/10.1037/abn0000850) and [repetitive negative thinking](https://doi.org/10.1016/j.brat.2023.104307). Some of my current work investigates what drives the relationship between depression and first-person singular pronoun use (e.g., I, me, mine).
@@ -38,7 +41,9 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 **Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw)
 
-**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
+Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
+
+**Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
 Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2024). [Key language markers of depression depend on race.](https://www.pnas.org/doi/10.1073/pnas.2319837121) *PNAS.*
 
@@ -92,6 +97,11 @@ Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A.
 <!---
 [here's a link to open a file](assets/biscuit.png)
 
+
+Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (preprint). Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?
+
+
+and outlining the characteristics AI mental health tools need and discussing technical challenges
 
 -->
 
