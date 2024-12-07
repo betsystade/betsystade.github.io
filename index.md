@@ -39,6 +39,9 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## publications
 
+**Stade, E. C.**, Wiltsey Stirman, S., Held, P., Schwartz, H. A., Eichstaedt, J. E., (preprint). [Designing clinical psychological AI that reduces suffering: Challenges and technical considerations.](https://osf.io/preprints/psyarxiv/tjv8p)
+
+
 **Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw)
 
 Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
@@ -97,8 +100,18 @@ Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A.
 <!---
 [here's a link to open a file](assets/biscuit.png)
 
+Pubs to add: 
 
-Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (preprint). Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?
+
+- TherapyTrainer paper
+- AI methods paper (sent to Andy)
+- LLM survey paper
+- language of depression
+
+- new paper from Sunny
+- Psychedelics paper 
+- Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (preprint). Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?
+- Veerle, Kjell, -- Mental Health Assessment Methods and Attitudes in Clinical Practices
 
 
 and outlining the characteristics AI mental health tools need and discussing technical challenges
