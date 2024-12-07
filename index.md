@@ -21,11 +21,13 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 
 ## research
 
-#### ai tools for mental health 
-I develop products that use large language models (LLMs) to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to help therapists learn gold-standard treatments. 
+#### ai + mental health
+I also write about the future of AI and mental heath, including [ways in which large language models can be used for mental healthcare](https://www.nature.com/articles/s44184-024-00056-z.pdf), [what needs to happen to make them effective](https://osf.io/preprints/psyarxiv/tjv8p), and [how we will know when they are ready to deploy](https://osf.io/preprints/psyarxiv/8zqhw).
 
-#### important considerations for ai + mental health
-I also write about the future of AI and mental heath. This includes thinking about a [continuum of integration of AI into mental healthcare](https://www.nature.com/articles/s44184-024-00056-z.pdf) and [defining criteria for evaluating whether AI-mental health tools are safe and ready to deploy in clinical settings](https://osf.io/preprints/psyarxiv/8zqhw). One of my goals is making information about AI and LLMs more accessible to clinical psychology audiences.  
+
+#### ai mental health tools
+I also develop products that use large language models to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to help therapists learn gold-standard treatments. 
+
 
 #### language + psychopathology
 I have also used natural language processing to characterize and measure (and disentangle!) [depression and anxiety](https://doi.org/10.1037/abn0000850) and [repetitive negative thinking](https://doi.org/10.1016/j.brat.2023.104307). Some of my current work investigates what drives the relationship between depression and first-person singular pronoun use (e.g., I, me, mine).
