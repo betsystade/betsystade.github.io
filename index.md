@@ -22,7 +22,7 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 ## research
 
 #### ai + mental health theory
-I also write about the future of AI and mental heath, including how [large language models can be used for mental healthcare](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and [how we will know when these applications are ready to deploy](https://osf.io/preprints/psyarxiv/8zqhw).
+I also write about the future of AI and mental heath, including how large language models can [improve research and treatment](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://osf.io/preprints/psyarxiv/8zqhw).
 
 
 #### developing ai mental health tools
