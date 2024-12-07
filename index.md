@@ -21,11 +21,11 @@ I use [evidence-based therapies](https://div12.org/treatments/), including CBT f
 
 ## research
 
-#### ai + mental health
+#### ai + mental health theory
 I also write about the future of AI and mental heath, including [ways in which large language models can be used for mental healthcare](https://www.nature.com/articles/s44184-024-00056-z.pdf), [what needs to happen to make them effective](https://osf.io/preprints/psyarxiv/tjv8p), and [how we will know when they are ready to deploy](https://osf.io/preprints/psyarxiv/8zqhw).
 
 
-#### ai mental health tools
+#### developing ai mental health tools
 I also develop products that use large language models to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to help therapists learn gold-standard treatments. 
 
 
