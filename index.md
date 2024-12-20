@@ -26,7 +26,7 @@ I write about the future of AI and mental heath, including how large language mo
 
 
 #### developing ai mental health tools
-I also develop products that use large language models to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to help therapists learn gold-standard treatments. 
+I also develop products that use large language models to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to [help therapists learn](https://osf.io/preprints/osf/wx93m) gold-standard treatments. 
 
 
 #### language + psychopathology
@@ -39,14 +39,17 @@ Depression and anxiety are not categorical (they are *dimensional* -- severity m
 Beyond these research streams, I'm interested in developing behavioral measures of psychological constructs, like [using a joystick to measure characteristics of thought](https://doi.org/10.1177/21677026211038017). I also use empirical methods to disentangle or understand the overlap between closely related psychological constructs, like [worry and rumination](https://doi.org/10.1177/21677026221131309). 
 
 
-## publications
+## preprints
 
-**Stade, E. C.**, Wiltsey Stirman, S., Held, P., Schwartz, H. A., Eichstaedt, J. E., (preprint). [Designing clinical psychological AI that reduces suffering: Challenges and technical considerations.](https://osf.io/preprints/psyarxiv/tjv8p)
+**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure.](https://osf.io/preprints/osf/wx93m)
 
+**Stade, E. C.**, Wiltsey Stirman, S., Held, P., Schwartz, H. A., & Eichstaedt, J. E., (preprint). [Designing clinical psychological AI that reduces suffering: Challenges and technical considerations.](https://osf.io/preprints/psyarxiv/tjv8p)
 
-**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw)
+**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw)
 
 Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
+
+## peer reviewed papers
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
