@@ -26,7 +26,7 @@ I write about the future of AI and mental heath, including how large language mo
 
 
 #### developing ai mental health tools
-I also develop products that use large language models to improve assessment and treatment of psychopathology. Current projects include an AI-based homework helper for an evidence-based treatment for PTSD (with the goal of making therapy homework better), and using LLMs to [help therapists learn](https://osf.io/preprints/osf/wx93m) gold-standard treatments. 
+I also develop products that use large language models to improve assessment and treatment of psychopathology. Right now I'm building an AI-based CBT homework helper that aims to make therapy homework better for patients, and an AI-based platform to [help therapists learn](https://osf.io/preprints/osf/wx93m) gold-standard treatments.
 
 
 #### language + psychopathology
