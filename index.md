@@ -15,17 +15,19 @@ I am a postdoctoral researcher at the Stanford [Institute for Human-Centered AI]
 
 I use [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, and cognitive processing therapy and prolonged exposure for PTSD. 
 
-<a href="assets/EStade_CV.pdf" target="_blank">My CV</a>
+<!---
+# <a href="assets/EStade_CV.pdf" target="_blank">My CV</a> 
 
+-->
 
 
 ## research
 
-#### ai + mental health theory
+#### safe and responsible ai for mental health 
 I write about the future of AI and mental heath, including how large language models can [improve research and treatment](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://osf.io/preprints/psyarxiv/8zqhw).
 
 
-#### developing ai mental health tools
+#### ai mental health tools
 I also develop products that use large language models to improve assessment and treatment of psychopathology. Right now I'm building an AI-based CBT homework helper that aims to make therapy homework better for patients, and an AI-based platform to [help therapists learn](https://osf.io/preprints/osf/wx93m) gold-standard treatments.
 
 
