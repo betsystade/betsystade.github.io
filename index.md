@@ -9,11 +9,11 @@ layout: default
 
 ## about
 
-How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? What is the underlying structure of psychopathology? I use computational linguistics and machine learning to address these questions. 
+How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? I use large language models, computational linguistics and machine learning to address these questions. 
 
 I am a postdoctoral researcher at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD in Psychology at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
-I use [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, and cognitive processing therapy and prolonged exposure for PTSD. 
+I am trained in [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, exposure and response prevention for OCD, and cognitive processing therapy and prolonged exposure for PTSD. 
 
 <!---
 # <a href="assets/EStade_CV.pdf" target="_blank">My CV</a> 
@@ -43,7 +43,7 @@ Beyond these research streams, I'm interested in developing behavioral measures 
 
 ## preprints
 
-**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure.](https://osf.io/preprints/osf/wx93m)
+**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://osf.io/preprints/osf/wx93m)
 
 **Stade, E. C.**, Wiltsey Stirman, S., Held, P., Schwartz, H. A., & Eichstaedt, J. E., (preprint). [Designing clinical psychological AI that reduces suffering: Challenges and technical considerations.](https://osf.io/preprints/psyarxiv/tjv8p)
 
@@ -74,6 +74,10 @@ Murrough, J. W., **Stade, E. C.**, Sayed, S., Ahle, G., Kiraly, D. D., Welch, A.
 
 **Stade, E. C.**, & Iosifescu, D.V. (2016). [Using EEG for treatment guidance in major depressive disorder.](https://doi.org/10.1016/j.bpsc.2016.06.002) *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 1(5), 411-422.
 
+
+## policy
+
+[HAI Policy Brief](https://hai.stanford.edu/sites/default/files/2024-06/HAI-Policy-Brief-Responsible-Development-LLMs-Psychotherapy.pdf)
 
 ## press
 
