@@ -9,7 +9,7 @@ layout: default
 
 ## about
 
-How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? I use large language models, computational linguistics and machine learning to address these questions. 
+How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? I use large language models, natural language processing, and machine learning to address these questions. 
 
 I am a computational clinical psychologist and postdoc at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
