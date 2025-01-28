@@ -38,7 +38,7 @@ I have also used natural language processing to characterize and measure (and di
 Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! [My work](https://psyarxiv.com/vkbnh) has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
 
 #### more
-Beyond these research streams, I'm interested in developing behavioral measures of psychological constructs, like [using a joystick to measure characteristics of thought](https://doi.org/10.1177/21677026211038017). I also use empirical methods to disentangle or understand the overlap between closely related psychological constructs, like [worry and rumination](https://doi.org/10.1177/21677026221131309). 
+Beyond these research streams, I'm interested in how psychopathology shows up in behavior ((here)[https://doi.org/10.1177/21677026211038017] and [here](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1)). I also use empirical methods to disentangle or understand cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). 
 
 
 ## preprints
@@ -58,6 +58,8 @@ Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell,
 Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2024). [Key language markers of depression depend on race.](https://www.pnas.org/doi/10.1073/pnas.2319837121) *PNAS.*
 
 **Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (2023). [Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.](https://doi.org/10.1037/abn0000850) *Journal of Psychopathology and Clinical Science.* 
+
+Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1). *Behaviour Research and Therapy.* 
 
 **Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM](https://doi.org/10.1037/abn0000863). *Journal of Psychopathology and Clinical Science.*
 
@@ -121,7 +123,6 @@ Pubs to add:
 
 - new paper from Sunny
 - Psychedelics paper 
-- Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (preprint). Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?
 - Veerle, Kjell, -- Mental Health Assessment Methods and Attitudes in Clinical Practices
 
 
