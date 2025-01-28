@@ -38,7 +38,7 @@ I have also used natural language processing to characterize and measure (and di
 Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! [My work](https://psyarxiv.com/vkbnh) has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
 
 #### more
-Beyond these research streams, I'm interested in how psychopathology shows up in behavior ([here](https://doi.org/10.1177/21677026211038017) and [here](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1)). I also use empirical methods to disentangle or understand cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). 
+Beyond these research streams,  I also use empirical methods to study cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). I'm also interested in how psychopathology shows up in behavior ([here](https://doi.org/10.1177/21677026211038017) and [here](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1)).
 
 
 ## preprints
