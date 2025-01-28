@@ -38,7 +38,7 @@ I have also used natural language processing to characterize and measure (and di
 Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! [My work](https://psyarxiv.com/vkbnh) has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
 
 #### more
-Beyond these research streams,  I also use empirical methods to study cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). I'm also interested in how psychopathology shows up in behavior ([here](https://doi.org/10.1177/21677026211038017) and [here](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1)).
+Beyond these research streams,  I also use empirical methods to study cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). I'm also interested in how psychopathology shows up in behavior ([here](http://journals.sagepub.com/doi/10.1177/21677026211038017) and [here](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1)).
 
 
 ## preprints
@@ -67,7 +67,7 @@ Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring beha
 
 **Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
 
-**Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time perseverative thought.](https://doi.org/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
+**Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time perseverative thought.](http://journals.sagepub.com/doi/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
 
 Costi, S., Soleimani, L., Glasgow, A., Brallier, J., Spivack, J., Schwartz, J., Levitch C. F., Richards, S., Hoch, M., **Stade, E. C.**, Welch, A., Collins, K. A., Feder, A., Iosifescu, D. V., Charney, D. S., & Murrough, J. W. (2019). [Lithium continuation therapy following ketamine in patients with treatment resistant unipolar depression: a randomized controlled trial.](https://doi.org/10.1038/s41386-019-0365-0)
 *Neuropsychopharmacology,* 44, 1812–1819.
