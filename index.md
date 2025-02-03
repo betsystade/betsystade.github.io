@@ -34,7 +34,7 @@ I write about the future of AI and mental heath, including how large language mo
 
 ## ai mental health tools
 
-I also develop products that use large language models to improve assessment and treatment of psychopathology. Right now I'm building an AI-based CBT homework helper that aims to make therapy homework better for patients, and an AI-based platform to [help therapists learn](https://osf.io/preprints/osf/wx93m) gold-standard treatments.
+I also develop products that use large language models to improve assessment and treatment of psychopathology. Right now I'm building an AI-based CBT homework helper that aims to make therapy homework better for patients, and an AI-based platform to help therapists learn gold-standard treatments:
 
 **Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://osf.io/preprints/osf/wx93m)
 
@@ -54,9 +54,9 @@ Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Gun
 
 ## reconsidering psychopathology classification 
 
-Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! [My work](https://psyarxiv.com/vkbnh) has developed and tested a transdiagnostic, dimensional anxiety classification system as a possible alternative. 
+Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! We developed and tested a transdiagnostic, dimensional anxiety classification system as an alternative. 
 
-**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM](https://doi.org/10.1037/abn0000863). *Journal of Psychopathology and Clinical Science.*
+**Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM.](https://doi.org/10.1037/abn0000863) *Journal of Psychopathology and Clinical Science.*
 
 ## more
 
@@ -64,7 +64,7 @@ Beyond these research streams,  I also use empirical methods to study cognitive 
 
 **Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
 
-Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1). *Behaviour Research and Therapy.* 
+Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1) *Behaviour Research and Therapy.* 
 
 **Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time perseverative thought.](http://journals.sagepub.com/doi/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
 
