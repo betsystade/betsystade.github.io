@@ -47,11 +47,11 @@ Beyond these research streams,  I also use empirical methods to study cognitive 
 
 **Stade, E. C.**, Wiltsey Stirman, S., Held, P., Schwartz, H. A., & Eichstaedt, J. E., (preprint). [Designing clinical psychological AI that reduces suffering: Challenges and technical considerations.](https://osf.io/preprints/psyarxiv/tjv8p)
 
-**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (preprint). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw)
-
 Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
 
 ## peer reviewed papers
+
+**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (in press). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw). *Technology, Mind, and Behavior.*
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
@@ -59,9 +59,9 @@ Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Gun
 
 **Stade, E. C.**, Ungar, L., Eichstaedt, J. C., Sherman, G., Ruscio, A. M. (2023). [Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.](https://doi.org/10.1037/abn0000850) *Journal of Psychopathology and Clinical Science.* 
 
-Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1). *Behaviour Research and Therapy.* 
-
 **Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM](https://doi.org/10.1037/abn0000863). *Journal of Psychopathology and Clinical Science.*
+
+Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1). *Behaviour Research and Therapy.* 
 
 **Stade, E. C.**, Ungar, L., Havaldar, S., Ruscio, A. M. (2023). [Perseverative thinking is associated with features of spoken language.](https://doi.org/10.1016/j.brat.2023.104307) *Behaviour Research and Therapy.* 
 
