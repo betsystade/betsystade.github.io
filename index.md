@@ -34,16 +34,16 @@ I write about the future of AI and mental heath, including how large language mo
 
 ## ai mental health tools
 
-I also develop products that use large language models to improve assessment and treatment of psychopathology. Collaborators and I are building an AI-based CBT homework helper and an AI-based platform for training therapists in gold-standard treatments:
+I also develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based CBT homework helper and an AI-based platform for training therapists in gold-standard treatments:
 
 **Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://osf.io/preprints/osf/wx93m)
+
+Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
 
 
 ## language + psychopathology
 
 I have also used natural language processing to characterize and measure (and disentangle!) [depression and anxiety](https://doi.org/10.1037/abn0000850) and [repetitive negative thinking](https://doi.org/10.1016/j.brat.2023.104307). Some of my current work investigates what drives the relationship between depression and first-person singular pronoun use (e.g., I, me, mine).
-
-Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
 
 Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2024). [Key language markers of depression depend on race.](https://www.pnas.org/doi/10.1073/pnas.2319837121) *PNAS.*
 
