@@ -60,15 +60,13 @@ Depression and anxiety are not categorical (they are *dimensional* -- severity m
 
 ## more
 
-Beyond these research streams,  I also use empirical methods to study cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). I'm also interested in how psychopathology shows up in behavior ([here](http://journals.sagepub.com/doi/10.1177/21677026211038017) and [here](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1)).
+Beyond these research streams,  I also use empirical methods to study cognitive and behavioral processes, like [worry and rumination](https://doi.org/10.1177/21677026221131309). I'm also interested in how psychopathology shows up in behavior.
 
 **Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
 
 Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1). *Behaviour Research and Therapy.* 
 
 **Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time perseverative thought.](http://journals.sagepub.com/doi/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
-
-
 
 
 
