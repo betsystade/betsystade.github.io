@@ -5,20 +5,18 @@
 layout: default
 ---
 
-# BETSY STADE, PHD
+# ELIZABETH STADE, PHD
 
 ## about
 
 How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? I use large language models, natural language processing, and machine learning to address these questions. 
 
-I am a computational clinical psychologist and postdoc at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
+I am a computational clinical psychologist and research scientist at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
 I am trained in [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, exposure and response prevention for OCD, and cognitive processing therapy and prolonged exposure for PTSD. 
 
-<!---
-# <a href="assets/EStade_CV.pdf" target="_blank">My CV</a> 
+<a href="assets/EStade_CV.pdf" target="_blank">My CV</a> 
 
--->
 
 ## safe and responsible ai for mental health 
 
@@ -34,7 +32,7 @@ I write about the future of AI and mental heath, including how large language mo
 
 ## ai mental health tools
 
-I also develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based CBT homework helper and an AI-based platform for training therapists in gold-standard treatments:
+With collaborators at Stanford and the National Center for PTSD, I develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based CBT homework helper and an AI-based platform for training therapists in gold-standard treatments:
 
 **Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://osf.io/preprints/osf/wx93m)
 
