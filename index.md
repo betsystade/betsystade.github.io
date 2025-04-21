@@ -20,7 +20,7 @@ I am trained in [evidence-based therapies](https://div12.org/treatments/), inclu
 
 ## safe and responsible ai for mental health 
 
-I write about the future of AI and mental heath, including how large language models can [improve research and treatment](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://osf.io/preprints/psyarxiv/8zqhw).
+I write about the future of AI and mental heath, including how large language models can [improve research and treatment](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://tmb.apaopen.org/pub/8gyddorx/release/1).
 
 
 **Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (in press). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw) *Technology, Mind, and Behavior.*
@@ -32,7 +32,7 @@ I write about the future of AI and mental heath, including how large language mo
 
 ## ai mental health tools
 
-With collaborators at Stanford and the National Center for PTSD, I develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based CBT homework helper and an AI-based platform for training therapists in gold-standard treatments:
+With collaborators at Stanford and the National Center for PTSD, I develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based platform for training therapists in gold-standard treatments (under peer review) and AI-based CBT homework helper (under development).
 
 **Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://osf.io/preprints/osf/wx93m)
 
@@ -53,16 +53,18 @@ Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Gun
 
 Beyond these research streams,  I also use empirical methods to study cognitive and behavioral processes, like worry, rumination, perseverative thinking, and behavioral anxiety.
 
-**Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
+Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (2025). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://doi.org/10.1016/j.brat.2025.104700) *Behaviour Research and Therapy.* 
 
-Stephenson, A. R., **Stade, E. C.**, & Ruscio, A. M. (in press). [Measuring behavioral responses to a social stressor: Does the Social Performance Rating Scale have utility beyond social anxiety disorder?](https://authors.elsevier.com/sd/article/S0005-7967(25)00022-1) *Behaviour Research and Therapy.* 
+**Stade, E. C.**, & Ruscio, A. M. (2022). [A meta-analysis of the relationship between worry and rumination.](https://doi.org/10.1177/21677026221131309) *Clinical Psychological Science.*
 
 **Stade, E. C.**, Cohen, R., Loftus, P., & Ruscio, A. M. (2022). [A novel measure of real-time perseverative thought.](http://journals.sagepub.com/doi/10.1177/21677026211038017) *Clinical Psychological Science.* 10(3), 534–552.
 
 
-## reconsidering psychopathology classification 
+## psychopathology measurement & classification 
 
-Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! We developed and tested a transdiagnostic, dimensional anxiety classification system as an alternative. 
+Depression and anxiety are not categorical (they are *dimensional* -- severity matters) and cut across traditional diagnostic classes (they are *transdiagnostic*). The prevailing classification system, *DSM-5*, is neither transdiagnostic nor dimensional. This is a problem! I write about improved methods for measuring and classifying psychopathology variables, and have developed and tested a transdiagnostic, dimensional anxiety classification system. 
+
+Shani, C., & **Stade, E. C.** (2025). [Measuring mental health variables in computational research: Toward  validated, dimensional, and transdiagnostic approaches](https://drive.google.com/file/d/1rwSNPcgOdyHFuRWkZc7_tkOHNSN4srCI/view). *Proceedings of the 10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2025).*
 
 **Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM.](https://doi.org/10.1037/abn0000863) *Journal of Psychopathology and Clinical Science.*
 
@@ -120,7 +122,11 @@ Pubs to add:
 - Veerle, Kjell, -- Mental Health Assessment Methods and Attitudes in Clinical Practices
 
 
-and outlining the characteristics AI mental health tools need and discussing technical challenges
+resources
+Evidence-based assessment
+https://en.wikiversity.org/wiki/Evidence-based_assessment
+
+
 
 -->
 
