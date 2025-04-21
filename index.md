@@ -23,7 +23,7 @@ I am trained in [evidence-based therapies](https://div12.org/treatments/), inclu
 I write about the future of AI and mental heath, including how large language models can [improve research and treatment](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://tmb.apaopen.org/pub/8gyddorx/release/1).
 
 
-**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (in press). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://osf.io/preprints/psyarxiv/8zqhw) *Technology, Mind, and Behavior.*
+**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (in press). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://tmb.apaopen.org/pub/8gyddorx) *Technology, Mind, and Behavior.*
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
