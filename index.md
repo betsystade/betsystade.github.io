@@ -13,7 +13,7 @@ How can artificial intelligence and large language models help more people get s
 
 I am a computational clinical psychologist and research scientist at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
-I am trained in [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, exposure and response prevention for OCD, and cognitive processing therapy and prolonged exposure for PTSD. 
+I am trained in [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, exposure and response prevention for OCD, and cognitive processing therapy and prolonged exposure for PTSD. I have a small [private practice](https://www.drbetsystade.com/) where I offer CBT for insomnia.
 
 <a href="assets/EStade_CV.pdf" target="_blank">My CV</a> 
 
@@ -34,7 +34,7 @@ I write about the future of AI and mental heath, including how large language mo
 
 With collaborators at Stanford and the National Center for PTSD, I develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based platform for training therapists in gold-standard treatments (under peer review) and AI-based CBT homework helper (under development).
 
-**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (preprint). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://osf.io/preprints/osf/wx93m)
+**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (2025). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://authors.elsevier.com/sd/article/S1077-7229(25)00049-5) *Cognitive and Behavioral Practice.*
 
 Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
 
@@ -79,6 +79,8 @@ Shani, C., & **Stade, E. C.** (2025). [Measuring mental health variables in comp
 
 ## press
 
+[CBC](https://www.cbc.ca/listen/live-radio/1-1424-just-asking/clip/16151155-ai-therapy)
+
 [Guardian](https://www.theguardian.com/lifeandstyle/2024/mar/02/can-ai-chatbot-therapists-do-better-than-the-real-thing)
 
 [Vox](https://www.vox.com/technology/2023/12/14/24000435/chatbot-therapy-risks-and-potential)
@@ -95,6 +97,7 @@ Shani, C., & **Stade, E. C.** (2025). [Measuring mental health variables in comp
 
 [HAI News](https://hai.stanford.edu/news/blueprint-using-ai-psychotherapy)
 
+[Forbes](https://www.forbes.com/sites/lanceeliot/2025/06/02/stanford-initiative-leverages-ai-to-robustly-transform-mental-health-research-and-therapy/)
 
 ## more
 
