@@ -20,7 +20,7 @@ I am trained in [evidence-based therapies](https://div12.org/treatments/), inclu
 
 ## safe and responsible ai for mental health 
 
-I work on AI safety vis-à-vis mental heath and have published a safety evaluation [framework] (https://tmb.apaopen.org/pub/8gyddorx/release/1). I'm also interested in aligning AI applications with [clinical science knowledge](https://osf.io/preprints/psyarxiv/tjv8p). 
+I work on AI safety vis-à-vis mental heath and have published a safety evaluation [framework](https://tmb.apaopen.org/pub/8gyddorx/release/1). I'm also interested in aligning AI applications with [clinical science knowledge](https://osf.io/preprints/psyarxiv/tjv8p). 
 
 
 Reese, M. L., Zeneli, M., Ng, M. Haimes, J., Damien, A., **Stade, E.C.** (in press). Using LLM-as-a-judge/jury to advance scalable, clinically-validated safety evaluations of model responses to users demonstrating psychosis. *Proceedings of the NeurIPS 2025 Workshop GenAI4Health.*
