@@ -20,10 +20,12 @@ I am trained in [evidence-based therapies](https://div12.org/treatments/), inclu
 
 ## safe and responsible ai for mental health 
 
-I write about the future of AI and mental heath, including how large language models can [improve research and treatment](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://tmb.apaopen.org/pub/8gyddorx/release/1).
+I work on AI safety vis-a-vis mental heath, including [safe and responsible development](https://www.nature.com/articles/s44184-024-00056-z.pdf), what needs to happen [to do this effectively](https://osf.io/preprints/psyarxiv/tjv8p), and how we will know when these applications are [ready to deploy](https://tmb.apaopen.org/pub/8gyddorx/release/1).
 
 
-**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (in press). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://tmb.apaopen.org/pub/8gyddorx) *Technology, Mind, and Behavior.*
+Reese, M. L., Zeneli, M., Ng, M. Haimes, J., Damien, A., **Stade, E.C.** (in press). Using LLM-as-a-judge/jury to advance scalable, clinically-validated safety evaluations of model responses to users demonstrating psychosis. *Proceedings of the NeurIPS 2025 Workshop GenAI4Health.*
+
+**Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (2025). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://tmb.apaopen.org/pub/8gyddorx) *Technology, Mind, and Behavior.*
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
@@ -99,6 +101,9 @@ Shani, C., & **Stade, E. C.** (2025). [Measuring mental health variables in comp
 
 [Forbes](https://www.forbes.com/sites/lanceeliot/2025/06/02/stanford-initiative-leverages-ai-to-robustly-transform-mental-health-research-and-therapy/)
 
+
+
+
 ## more
 
 [clinical resources](resources)
@@ -129,6 +134,9 @@ resources
 Evidence-based assessment
 https://en.wikiversity.org/wiki/Evidence-based_assessment
 
+
+
+"My projects, research, and commentary have appeared in several outlets including the New York Times, the Washington Post, NBC News, TIME, Axios, Platformer, Foreign Affairs, Brookings TechStream, Lawfare, the Nightly News with Lester Holt, and elsewhere. I’ve also spoken at a few conferences, including DEF CON, TSRC, and RightsCon."
 
 
 -->
