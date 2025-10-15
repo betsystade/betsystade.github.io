@@ -23,8 +23,6 @@ I am trained in [evidence-based therapies](https://div12.org/treatments/), inclu
 I work on AI safety vis-à-vis mental heath and have published a safety evaluation [framework](https://tmb.apaopen.org/pub/8gyddorx/release/1). I'm also interested in aligning AI applications with [clinical science knowledge](https://osf.io/preprints/psyarxiv/tjv8p). 
 
 
-Reese, M. L., Zeneli, M., Ng, M. Haimes, J., Damien, A., **Stade, E.C.** (in press). Using LLM-as-a-judge/jury to advance scalable, clinically-validated safety evaluations of model responses to users demonstrating psychosis. *Proceedings of the NeurIPS 2025 Workshop GenAI4Health.*
-
 **Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (2025). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://tmb.apaopen.org/pub/8gyddorx) *Technology, Mind, and Behavior.*
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
@@ -88,6 +86,8 @@ Shani, C., & **Stade, E. C.** (2025). [Measuring mental health variables in comp
 [Vox](https://www.vox.com/technology/2023/12/14/24000435/chatbot-therapy-risks-and-potential)
 
 [KQED](https://www.kqed.org/forum/2010101894075/how-ai-could-transform-mental-health-care)
+
+[WebMD](https://www.webmd.com/mental-health/news/20250820/real-risks-turning-ai-therapy)
 
 [Dropbox Blog](https://blog.dropbox.com/topics/work-culture/ai-therapy-)
 
