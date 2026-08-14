@@ -11,37 +11,48 @@ layout: default
 
 How can artificial intelligence and large language models help more people get science-backed treatments for mental disorders? How do psychological processes like depression and anxiety show up in human language? I use large language models, natural language processing, and machine learning to address these questions. 
 
-I am a computational clinical psychologist and research scientist at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu/) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I did my PhD at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
+I am a clinical psychologist and computational researcher at the Stanford [Institute for Human-Centered AI](https://hai.stanford.edu/) working in the [Computational Psychology and Well-Being](https://cpwb.stanford.edu) and [Fidelity, Adaptation, Sustainability, and Training](https://med.stanford.edu/fastlab.html) labs. I am also the associate director of the [CREATE Center for Advancing Therapy with AI](create.stanford.edu), run by the fantastic [Shannon Wiltsey Stirman](https://profiles.stanford.edu/shannon-wiltsey-stirman) and [Johannes Eichstaedt](https://jeichstaedt.com/). 
+
+I did my PhD at the University of Pennsylvania in the [Boundaries of Anxiety and Depression lab](https://web.sas.upenn.edu/ruscio-lab/). I'm part of the [World Well-Being Project](https://www.wwbp.org/). My research has been supported by the [National Science Foundation](https://www.nsfgrfp.org/).
 
 I am trained in [evidence-based therapies](https://div12.org/treatments/), including CBT for depression and insomnia, exposure therapy for the anxiety disorders, exposure and response prevention for OCD, and cognitive processing therapy and prolonged exposure for PTSD. I have a small [private practice](https://www.drbetsystade.com/) where I offer CBT for insomnia.
 
 <a href="assets/EStade_CV.pdf" target="_blank">My CV</a> 
 
+## contacting me
+
+I host monthly research consultations through the CREATE Center. You can find details [here](https://create.stanford.edu/contact).
+
+We are always looking for fantastic postdocs. I'm especially interested in working with clinical psychologists with a strong computational background. If this is you, please get in touch. 
+
+At this point I'm not able to schedule meetings with high-schoolers, undergraduates, or master's students, although you are welcome to attend my CREATE office hours.
+
+
+## ai mental health tools
+
+I am interested in using large language models to improve assessment and treatment of psychopathology. At CREATE, I lead the development of [TherapyTrainer](https://doi.org/10.1016/j.cbpra.2025.06.005), our AI-based platform for training therapists in gold-standard treatments.
+
+**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (2025). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://doi.org/10.1016/j.cbpra.2025.06.005) *Cognitive and Behavioral Practice.*
+
+Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (2026). [Explaining GPT-4’s schema of depression: A machine behavior analysis.](https://dx.doi.org/10.1037/abn0001144) *Journal of Psychopathology and Clinical Science.* 
+
 
 ## safe and responsible ai for mental health 
 
-I work on AI safety vis-à-vis mental heath and have published a safety evaluation [framework](https://tmb.apaopen.org/pub/8gyddorx/release/1). I'm also interested in aligning AI applications with [clinical science knowledge](https://osf.io/preprints/psyarxiv/tjv8p). 
+I work on AI safety vis-à-vis mental heath. We have published a safety evaluation [framework](https://tmb.apaopen.org/pub/8gyddorx/release/1) as well as a framework for aligning AI applications with [clinical science knowledge](https://osf.io/preprints/psyarxiv/tjv8p). 
 
+**Stade, E. C.**, Held, P., Schwartz, H. A., &  Wiltsey Stirman, S., Eichstaedt, J. E., (2026). [A framework for evidence-based psychotherapy with AI (EBP-AI)](https://osf.io/preprints/psyarxiv/tjv8p_v3). *Journal of Psychopathology and Clinical Science.* 
 
 **Stade, E. C.**, Eichstaedt, J. E., Kim, J. P., & Wiltsey Stirman, S., (2025). [Readiness Evaluation for AI Deployment and Implementation for Mental Health: A review and framework.](https://tmb.apaopen.org/pub/8gyddorx) *Technology, Mind, and Behavior.*
 
 **Stade, E. C.**, Wiltsey Stirman, S., Ungar, L., Boland, C. L., Schwartz, H. A., Yaden, D. B., Sedoc, J., DeRubeis, R. J., Willer, R., Eichstaedt, J. E. (2024). [Large language models could change the future of behavioral healthcare: a proposal for responsible development and evaluation.](https://www.nature.com/articles/s44184-024-00056-z.pdf) *npj Mental Health Research.*
 
-**Stade, E. C.**, Wiltsey Stirman, S., Held, P., Schwartz, H. A., & Eichstaedt, J. E., (preprint). [Designing clinical psychological AI that reduces suffering: Challenges and technical considerations.](https://osf.io/preprints/psyarxiv/tjv8p)
-
-
-## ai mental health tools
-
-With collaborators at Stanford and the National Center for PTSD, I develop products that use large language models to improve assessment and treatment of psychopathology, including an AI-based platform for training therapists in gold-standard treatments (under peer review) and AI-based CBT homework helper (under development).
-
-**Stade, E. C.**, Eichstaedt, J. E., Kaysen, D. Salecha, A., Greenberger, A., Singhbi, S., & Wiltsey Stirman, S., (2025). [TherapyTrainer: Using AI to train therapists in written exposure therapy.](https://authors.elsevier.com/sd/article/S1077-7229(25)00049-5) *Cognitive and Behavioral Practice.*
-
-Ganesan, A. V., Varadarajan, V., Lal, Y. K., Eijsbroek, V. C., Kjell, K., Kjell, O. N. E., Dhanasekaran, T., **Stade, E. C.**, Eichstaedt, J. C., Boyd, R. L., Schwartz, H. A., & Flek, L. (preprint). [Explaining GPT-4’s schema of depression using machine behavior analysis.](https://doi.org/10.48550/arXiv.2411.13800)
-
 
 ## language + psychopathology
 
-I have also used natural language processing to characterize and measure (and disentangle!) [depression and anxiety](https://doi.org/10.1037/abn0000850) and [repetitive negative thinking](https://doi.org/10.1016/j.brat.2023.104307). Some of my current work investigates what drives the relationship between depression and first-person singular pronoun use (e.g., I, me, mine).
+I use natural language processing to characterize and measure (and disentangle!) [depression and anxiety](https://doi.org/10.1037/abn0000850) and [repetitive negative thinking](https://doi.org/10.1016/j.brat.2023.104307). Some of my current work investigates what drives the relationship between depression and first-person singular pronoun use (e.g., I, me, mine).
+
+Mesquiti, S., **Stade, E. C.**, Hull, T. D., & Nook, E. C. (preprint). [The meaning of “I”: Semantic self-representation tracks internalizing symptoms within and across persons in psychotherapy.](https://osf.io/preprints/psyarxiv/dngrh_v1)
 
 Rai, S., **Stade, E. C.**, Giorgi, S., Francisco, A., Ungar, L., Curtis, B., Guntuku, S. C. (2024). [Key language markers of depression depend on race.](https://www.pnas.org/doi/10.1073/pnas.2319837121) *PNAS.*
 
@@ -67,10 +78,6 @@ Depression and anxiety are not categorical (they are *dimensional* -- severity m
 Shani, C., & **Stade, E. C.** (2025). [Measuring mental health variables in computational research: Toward  validated, dimensional, and transdiagnostic approaches](https://drive.google.com/file/d/1rwSNPcgOdyHFuRWkZc7_tkOHNSN4srCI/view). *Proceedings of the 10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2025).*
 
 **Stade, E. C.**, DeRubeis, R. J., Ungar, L., & Ruscio, A. M. (2023). [A transdiagnostic, dimensional classification of anxiety shows improved parsimony and predictive noninferiority to DSM.](https://doi.org/10.1037/abn0000863) *Journal of Psychopathology and Clinical Science.*
-
-
-
-
 
 
 ## policy
